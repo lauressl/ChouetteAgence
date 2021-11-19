@@ -653,6 +653,7 @@ a {
     font-weight: 400;
     color: #575757!important;
 }
+
 .container {
     max-width: 1000px;
 }
@@ -676,12 +677,7 @@ a {
 }
 
 p {
-    font-size: 15px;
-}
-
-.comment {
-    font-size: 18px;
-    font-style: italic;
+    font-size: 11px;
 }
 
 .tight-width-whitespace {
@@ -711,7 +707,6 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
-    max-width: 600px;
 }
 
 h3 {
