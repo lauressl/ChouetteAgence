@@ -680,6 +680,11 @@ p {
     font-size: 11px;
 }
 
+.comment {
+    font-size: 18px;
+    font-style: italic;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
